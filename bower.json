@@ -1,0 +1,18 @@
+{
+  "name": "dakota-jane",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jessicafraines/dakota-jane",
+  "authors": [
+    "jessicafraines <jessicafraines@gmail.com>"
+  ],
+  "description": "A site for Dakota",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
